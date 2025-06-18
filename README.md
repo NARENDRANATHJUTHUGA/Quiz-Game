@@ -13,25 +13,21 @@ A colorful Java-based GUI Quiz Game built using **Java Swing**. This fun project
 ![Screenshot 2025-06-18 190227](https://github.com/user-attachments/assets/e748d97a-70a8-4b31-94ec-cd0452956f41)
 
 
-🛠️ How to Run
+🛠️Features
+- Simple and colorful GUI using Java Swing
+- Timer countdown for each question
+- Real-time score tracking
+- Final review screen with results
 
-1. Clone the repo:
-   git clone https://github.com/NARENDRANATHJUTHUGA/Quiz-Game.git
-Navigate to the folder:
-cd Quiz-Game
-Compile the Java file:
+🛠️ Technologies Used
+- Java 8+
+- Swing (JFrame, JPanel, JButton)
+- OOP Concepts
+
+🧪 How to Run
+bash
 javac QuizGameGUI.java
-Run the game:
-QuizGameGUI
-
-✨ Features
-📋 Multiple choice questions
-
-⏱️ Countdown timer for each question
-
-💯 Instant scoring system
-
-🎨 Clean and attractive UI
+java QuizGameGUI
 
 📄 License
 This project is open source. Feel free to use, improve, and share it!
