@@ -25,12 +25,19 @@ A colorful Java-based GUI Quiz Game built using **Java Swing**. This fun project
 - OOP Concepts
 
 🧪 How to Run
+
 bash
+
 javac QuizGameGUI.java
+
 java QuizGameGUI
+
+I’ve developed a colorful Java-based Quiz Game application with an interactive GUI using Swing. The game features a timer for each question, real-time score tracking, and a final review screen showing the results. This project helped me apply core Object-Oriented Programming concepts, event-driven programming, and GUI design in Java. It’s a great foundation for anyone learning desktop application development.
+
 
 📄 License
 This project is open source. Feel free to use, improve, and share it!
+
 
 🙋‍♂️ Created By
 NARENDRANATH JUTHUGA
